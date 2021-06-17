@@ -1,16 +1,11 @@
-# level_up_01
+# #LeveUP1 | Raro Academy
 
-A new Flutter project.
+Projeto Flutter para criação de bandeira de país com uso de widgets do tipo Container(), Row(), Expanded() e componentização.
 
-## Getting Started
+## Resultado esperado
 
-This project is a starting point for a Flutter application.
+[<img src="https://drive.google.com/file/d/12N85F475skL69pWIs6nftkrnwGeF33v5/view?usp=sharing">]
 
-A few resources to get you started if this is your first Flutter project:
+## Desafio Extra
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[<img src="https://drive.google.com/file/d/1T8qBHs279PaKnvleudExSTbC94AbIjw1/view?usp=sharing">]
