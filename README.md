@@ -4,8 +4,8 @@ Projeto Flutter para criação de bandeira de país com uso de widgets do tipo C
 
 ## Resultado esperado
 
-[<img src="https://drive.google.com/uc?id=12N85F475skL69pWIs6nftkrnwGeF33v5">]
+<img src="https://drive.google.com/uc?id=12N85F475skL69pWIs6nftkrnwGeF33v5">
 
 ## Desafio Extra
 
-[<img src="https://drive.google.com/uc?id=1T8qBHs279PaKnvleudExSTbC94AbIjw1>]
+<img src="https://drive.google.com/uc?id=1T8qBHs279PaKnvleudExSTbC94AbIjw1>
